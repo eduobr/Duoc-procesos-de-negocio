@@ -1,0 +1,26 @@
+gerente de area: crea solicitud para crear o ocupar un puesto
+
+jefe de reclutamiento: Recibe la solicitud del gerente de area, envía vacantes a empresa de publicacion
+
+
+
+requerimientos de usuario.
+
+
+gerente de area: necesita que el sistema le permita crear la solicitud del puesto funcional
+
+Jefe de Reclutamiento: Le debe llegar la solicitud del gerente y este debe dar a conocer las vacantes disponibles y el tipo de vacante que le solicitaron indicando fecha y hora de entrevistas, posteriormente debe permitirle realizar la solicitud de capacitacion al jefe de capacitacion
+
+Persona encargada de los curriculum: el sistema le debe permitir visualizarlos datos del postulante, ponerse en contacto con los postulantes seleccionados e informar al jefe de reclutamiento cuales fueron los seleccionados
+
+
+Postulantes: El sistema le debe permitir ingresar sus datos personales, adjuntar su curriculum y realizar la postulacion.
+
+Jefe
+
+
+Requerimientos de sistema
+
+RF001: Necesita que el sistema le permita crear la solicitud del puesto funcional
+
+Jefe De Reclutamiento: El sistema al detectar la solicitud del gerente de area, genera una notificacion al correo del jefe de reclutamiento. 

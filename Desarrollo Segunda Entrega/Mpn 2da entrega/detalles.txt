@@ -1,0 +1,3 @@
+Procesos
+Gerente:Administrar trabajadores
+Sub-Gerente:cargar plan de trabajo
